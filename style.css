@@ -14,13 +14,26 @@ header {
 }
 
 .projects h2,
-.about h2,
 .projects h3 {
   color: #00d1b2;
 }
 
-.about p {
+.about {
   color: #f0f0f0;
+}
+
+.about h2 {
+  color: #00d1b2;
+  margin-bottom: 1rem;
+}
+
+.about p {
+  line-height: 1.6;
+  color: #ccc;
+}
+
+img.rounded-circle {
+  border: 3px solid #00d1b2;
 }
 
 .container {
