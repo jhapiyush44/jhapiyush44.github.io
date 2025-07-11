@@ -15,9 +15,12 @@ header {
 
 .projects h2,
 .about h2,
-.about h3,
 .projects h3 {
   color: #00d1b2;
+}
+
+.about p {
+  color: #f0f0f0;
 }
 
 .container {
