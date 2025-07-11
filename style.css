@@ -13,8 +13,11 @@ header {
   text-align: center;
 }
 
-.about {
-  color: #f0f0f0;
+.projects h2,
+.about h2,
+.about h3,
+.projects h3 {
+  color: #00d1b2;
 }
 
 .container {
