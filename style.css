@@ -52,6 +52,11 @@ header {
   color: #00d1b2;
 }
 
+.project-card p,
+.project-card a {
+  color: #f0f0f0;
+}
+
 .buttons {
   display: flex;
   flex-direction: column;
